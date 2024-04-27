@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "俩个网址"
+title: "俩个网站"
 date:   2024-4-26
 tags: web
 comments: true
