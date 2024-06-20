@@ -14,6 +14,11 @@ permalink: /about/
 
 本博客文章属于个人知识产权，如有转载需声明。
 
-##应用
+## 引用
 边框fancy-border-radius的调整引用：
+
 https://9elements.github.io/fancy-border-radius/
+
+背景调色：
+
+https://flatuicolors.com/
