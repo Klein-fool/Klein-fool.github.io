@@ -12,4 +12,8 @@ permalink: /about/
 
 ## 声明
 
-本博客文章或代码都为开源，大家可以随便借用。
+本博客文章属于个人知识产权，如有转载需声明。
+
+##应用
+边框fancy-border-radius的调整引用：
+https://9elements.github.io/fancy-border-radius/
